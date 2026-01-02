@@ -5,5 +5,5 @@
 <li>I’m a webmaster! (HTML & CSS is my specialty)</li>
 <li>How to reach me: <a href="mailto:tsubasamoomin@gmail.com">Email</a></li>
 <li>Pronouns: preferable she/her</li>
-<li>Fun fact: I love chiikawa and kabutomushi </li>
+<li>Fun fact: I love hachiware, chiikawa, and kabutomushi </li>
 </ul>
